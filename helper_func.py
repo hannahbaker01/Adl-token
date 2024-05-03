@@ -1,4 +1,4 @@
-#(©)Codeflix_Bots
+#(©)PLAYBOY_XD
 import base64
 import re
 import asyncio
